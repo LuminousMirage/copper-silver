@@ -1,2 +1,2 @@
 # copper-silver
-A journey of finding copper and silver
+A journey of finding copper and silver and maybe gold and diamond
