@@ -1,3 +1,4 @@
 silver x 2
 silver x 1
-copper x 4
+copper x 2
+copper x 2
