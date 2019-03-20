@@ -1,2 +1,2 @@
 # copper-silver
-All copper and silver listed here
+Copper and silver listed here
