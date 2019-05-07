@@ -1,2 +1,2 @@
 # copper-silver
-Copper and silver resource list here
+Copper and silver resources listed here
